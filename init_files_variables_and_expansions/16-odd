@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '1~2p'
+nl -ba | grep -E "^ *[0-9]*[13579]\s" | cut -f2-
