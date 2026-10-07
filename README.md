@@ -1,1 +1,3 @@
-This repository contains solutions to the Shell, basics project, covering fundamental Bash commands for navigating and manipulating the filesystem.
+# alu-shell
+
+Bash scripts about processes and signals.
